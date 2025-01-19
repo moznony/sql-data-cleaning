@@ -70,6 +70,8 @@ Key cleaning steps include:
 
 ## How to Use
 
+1. ## How to Use
+
 1. Clone this repository:  
    ```bash
-   git clone [Here](https://github.com/moznony/sql-data-cleaning.git)
+   git clone https://github.com/moznony/sql-data-cleaning.git
