@@ -72,4 +72,4 @@ Key cleaning steps include:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/sql-layoffs-2022.git
+   git clone https://github.com/yourusername/sql-layoffs.git
